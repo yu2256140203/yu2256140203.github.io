@@ -10,6 +10,5 @@ thumbnail: https://i.loli.net/2021/03/01/MlGdaDTvkfxgIhP.jpg # 略缩图
 cover: cheng-shi-he-fan-si-qiangzhi-2560x1080-10907_14.jpg # 略缩图
 ---
 
-<img src="cheng-shi-he-fan-si-qiangzhi-2560x1080-10907_14.jpg" width=50% />
-哇，漂亮的小姐姐(❤ ω ❤)
+(持续更新的图片💌)
 <!--more-->

@@ -25,7 +25,7 @@ Nav:
     icon:
         github: https://github.com/yu2256140203
         500px: http://500px.com
-
+pages:
         简历: 
             link: "/about/"
         团队 :

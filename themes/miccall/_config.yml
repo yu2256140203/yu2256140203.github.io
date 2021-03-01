@@ -25,8 +25,7 @@ Nav:
     icon:
         github: https://github.com/yu2256140203
         500px: http://500px.com
-        qq:http://wpa.qq.com/msgrd?v=3&uin=2256140203&site=qq&menu=yes
-    pages:
+
         简历: 
             link: "/about/"
         团队 :

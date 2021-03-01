@@ -2,17 +2,17 @@
 ## Docs: https://hexo.io/docs/configuration.html
 ## Source: https://github.com/hexojs/hexo/
 # Site
-title: Hexo
+title: Fly's Blog
 subtitle: ''
 description: ''
 keywords:
-author: John Doe
-language: en
+author: Yu Jerry
+language: cn
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://github.com/yu2256140203
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:

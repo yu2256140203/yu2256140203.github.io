@@ -7,7 +7,6 @@ head:
     favicon: "https://api.vercel.com/now/files/57dbce39c99b5c73e5c7f933a3d4bf1694fd1e41999e4d9f08a96a87733f5940/LogoMakr-6bamev.png"
     keywords: miccall
     backgroundpic : "img/bg.jpg"
-    logo:"https://api.vercel.com/now/files/57dbce39c99b5c73e5c7f933a3d4bf1694fd1e41999e4d9f08a96a87733f5940/LogoMakr-6bamev.png"
     
 Intro:
     name: Fly's Blog

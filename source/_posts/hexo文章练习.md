@@ -13,8 +13,6 @@ categories:
 top_img: https://api.vercel.com/now/files/c76862aa53efdb01a880354a8caba51559fbf7996654076d5272e6fb293a433f/v2-28bbcf7c9e948b771941de198f5ee426_1440w%5B1%5D.jpg
 # 封面与顶部图片
 cover:https://api.vercel.com/now/files/c76862aa53efdb01a880354a8caba51559fbf7996654076d5272e6fb293a433f/v2-28bbcf7c9e948b771941de198f5ee426_1440w%5B1%5D.jpg
-# 评论功能
-comments: true
 ---
 
 {% blockquote [author[, source]] [link] [source_link_title] %}

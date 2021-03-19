@@ -22,3 +22,5 @@ thumbnail: https://api.vercel.com/now/files/c76862aa53efdb01a880354a8caba51559fb
 {% blockquote YuJerry   https://hexo.fly-kiss.xyz ——hexo文章内容编辑练习 %} 
 一切为了未来
 {% endblockquote %}
+
+{% note warning %} 警告 (md partial supported) {% endnote %}

@@ -23,7 +23,4 @@ thumbnail: https://api.vercel.com/now/files/c76862aa53efdb01a880354a8caba51559fb
 一切为了未来
 {% endblockquote %}
 
-<section class="message is-default">
-<p>Default</p>
-</section>
-<div class="custom-block warning"><p class="custom-block-title">注意</p> <p>下面只是示例，请勿全盘复制，请看清后面的讲解后组织自己的配置文件。</p></div>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1403215687&auto=1&height=66"></iframe>

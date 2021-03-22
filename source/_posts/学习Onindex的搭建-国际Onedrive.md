@@ -32,19 +32,13 @@ Oneindex是利用Onedrive，Google Drive等云盘当作储存空间，利用微�
 
 Github网站如下：
 
-```http
-https://github.com/mengxiangke/oneindex-3/releases
-```
+`https://github.com/mengxiangke/oneindex-3/releases`
 
 具体的搭建方法如下:
 
-```http
-https://github.com/xinb/Oneindex
-```
+`https://github.com/xinb/Oneindex`
 
-```http
-https://www.shanyemangfu.com/oneindex.html
-```
+`https://www.shanyemangfu.com/oneindex.html`
 
 
 
@@ -58,21 +52,13 @@ https://www.shanyemangfu.com/oneindex.html
 
 下面是关于SCF的几位站长的搭建教程：
 
-```http
-https://www.nbmao.com/archives/4076
-```
+`https://www.nbmao.com/archives/4076`
 
-```http
-https://www.mad-coding.cn/2019/12/02/使用腾讯SCF-onedrive搭建5T个人网盘/
-```
+`https://www.mad-coding.cn/2019/12/02/使用腾讯SCF-onedrive搭建5T个人网盘/`
 
-```http
-https://blog.csdn.net/weixin_42409476/article/details/106522893
-```
+`https://blog.csdn.net/weixin_42409476/article/details/106522893`
 
 PS:这是OneManager的搭建方法，可以体验一下：
 
-```http
-https://github.com/qkqpttgf/OneManager-php
-```
+`https://github.com/qkqpttgf/OneManager-php`
 

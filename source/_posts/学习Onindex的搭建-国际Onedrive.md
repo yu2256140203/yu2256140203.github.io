@@ -10,6 +10,13 @@ categories:
 thumbnail: https://pic4.zhimg.com/80/v2-3de51a56e8c463a4fa496709987a2f72_720w.png
 ---
 
+```
+<img src="https://pic4.zhimg.com/80/v2-3de51a56e8c463a4fa496709987a2f72_720w.png" width = "900" height = "600" alt="git" align=center />
+利用OneDrive搭建属于自己的私人云盘
+
+<!-- more -->
+```
+
 # 什么是网盘
 
 网盘很常见，百度，腾讯，微软，亚马逊，甚至正在公测的阿里都是在为客户提供储存用户资料，提供较大空间来供客户保存生活中的一些生产和学习资料。

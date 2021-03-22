@@ -1,5 +1,5 @@
 ---
-title: '学习Onindex的搭建[国际Onedrive]'
+title: '学习Oneindex的搭建[国际Onedrive]'
 date: 2021-03-22 08:12:41
 tags:
   - 网盘

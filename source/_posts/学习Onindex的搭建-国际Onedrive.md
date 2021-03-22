@@ -10,12 +10,10 @@ categories:
 thumbnail: https://pic4.zhimg.com/80/v2-3de51a56e8c463a4fa496709987a2f72_720w.png
 ---
 
-```
-<img src="https://pic4.zhimg.com/80/v2-3de51a56e8c463a4fa496709987a2f72_720w.png" width = "900" height = "600" alt="git" align=center />
+<img src="https://pic4.zhimg.com/80/v2-3de51a56e8c463a4fa496709987a2f72_720w.png"  alt="git" align=center />
 利用OneDrive搭建属于自己的私人云盘
 
 <!-- more -->
-```
 
 # 什么是网盘
 
